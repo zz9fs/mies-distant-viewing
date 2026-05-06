@@ -13,9 +13,8 @@ Based on the project development lifecycle, the repository is organized as follo
 
 ```text
 mies-distant-viewing/
-├── data/                         # Directory for image assets
-├── jstor_mies_metadata.csv       # The "Metadata Bridge" (17-column CSV)
 ├── results/                      # Computational outputs and saved plots
+├── jstor_mies_metadata.csv       # The "Metadata Bridge" (17-column CSV)
 ├── photo_scrapping.ipynb         # Exploratory script for web-acquisition (access audit)
 ├── image_exploration.ipynb       # Main analysis script (Entropy, PCA, and DVT)
 ├── beautiful_soup.ipynb          # Scraping script for the Kaggle "Wild Stratum"
