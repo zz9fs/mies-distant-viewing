@@ -13,6 +13,7 @@ Based on the project development lifecycle, the repository is organized as follo
 
 ```text
 mies-distant-viewing/
+├── metadata/                     # The "Metadata Bridge" (17-column CSV)
 ├── results/                      # Computational outputs and saved plots
 ├── README.md                     # Project documentation
 ├── beautiful_soup.ipynb          # Scraping script for the Kaggle "Wild Stratum"
