@@ -1,0 +1,5 @@
+```text
+images in this folder were analyzed in the final paper for course IS 597: Culture at Scale, Spring 2026.
+
+Reference
+Zhang, J. (2026). The Skin and the Bone: A Distant Viewing of Miesian Modernism. University of Illinois Urbana-Champaign.
