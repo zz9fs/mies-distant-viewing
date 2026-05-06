@@ -14,12 +14,12 @@ Based on the project development lifecycle, the repository is organized as follo
 ```text
 mies-distant-viewing/
 ├── results/                      # Computational outputs and saved plots
-├── jstor_mies_metadata.csv       # The "Metadata Bridge" (17-column CSV)
-├── photo_scrapping.ipynb         # Exploratory script for web-acquisition (access audit)
-├── image_exploration.ipynb       # Main analysis script (Entropy, PCA, and DVT)
+├── README.md                     # Project documentation
 ├── beautiful_soup.ipynb          # Scraping script for the Kaggle "Wild Stratum"
-├── requirements.txt              # Python dependencies
-└── README.md                     # Project documentation
+├── image_exploration.ipynb       # Main analysis script (Entropy, PCA, and DVT)
+├── jstor_mies_metadata.csv       # The "Metadata Bridge" (17-column CSV)
+├── photo_scrapping.ipynb         # Exploratory script for web-acquisition (access audit) 
+└── requirements.txt              # Python dependencies
 
 ```
 
