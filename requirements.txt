@@ -1,0 +1,8 @@
+dvt
+beautifulsoup4
+pandas
+matplotlib
+seaborn
+scikit-learn
+requests
+opencv-python
